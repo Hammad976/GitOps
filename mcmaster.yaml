@@ -13,4 +13,4 @@ spec:
       - path: /etc/motd
         mode: 0444
         contents:
-          source: data:text/plain;base64,V2FybSB3ZWxjb21lIGZyb20gQXJnb0NEIQo=
+          source: data:text/plain;base64,V2VsY29tZSBvbmNlIGFnYWluIGZyb20gQXJnb0NEIQo=
